@@ -1,0 +1,8 @@
+number1 = int(input("input"))
+pumber2 = int(input("input"))
+print("vybor")
+print("1: summa: ")
+print("2: mult: ")
+choice = int(inpot("vas vybir "))
+if choice ==1:
+    print
