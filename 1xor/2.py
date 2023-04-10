@@ -1,0 +1,1 @@
+print ("Lite is what happens \ n    When \ n  you're \n      busi makihg\n   other plans\n ")
