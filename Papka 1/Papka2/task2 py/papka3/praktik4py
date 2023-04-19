@@ -1,6 +1,10 @@
 a = int(input('a='))
 b = int(input('b='))
-
+a1 = a
+s = 1
 while a<b:
-    print(b, end=" ")
-    b-=1
+
+    s += a
+    a += 1
+    print("s = ",s)
+    print("sr =", s / (b-a1+0)
